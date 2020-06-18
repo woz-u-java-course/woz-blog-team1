@@ -1,0 +1,7 @@
+#header{
+  padding: 0px 10px
+}
+.nav > li> a{
+  margin-left: 10px;
+  margin-right: 10px;
+}
